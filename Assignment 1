@@ -1,0 +1,25 @@
+<!DOCTYPE html> 
+<html> 
+    <head> 
+        <meta charset="utf-8"> 
+        <meta name="viewport" content="width=device-width, maximum-scale=1.0" />
+
+        <title>Dawn Ferguson's HCDE 598 Digital Fabrications Page!</title> 
+
+        <link href="style.css" media="screen" rel="stylesheet" type="text/css" />
+
+    </head> 
+    <body> 
+
+        <div class="header">
+            <h1>Example Student's Assignment 1!</h1>
+            <p>
+            <img src="dawn headshot.jpg" width=400></a>
+            </p>
+            <p>
+            Dawn Ferguson. Former full time visual artist and educator, current MS HCDE student. I have a deep love for research and design, gf baking, and LGBTQ advocacy. 
+            </p>
+        </div>
+        
+    </body>
+</html>
