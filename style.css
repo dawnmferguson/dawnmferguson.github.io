@@ -38,3 +38,108 @@ body {
 
 	.banner-text {
 	    padding: 16em 0;
+	    text-align: center;
+	}
+	
+
+	.banner-text h1 {
+	    font-size: 3.5em;
+	    line-height: 1.5em;
+	    display: inline-block;
+	    border: solid #7ecaf6;
+	    border-width: 4px;
+	    color: rgb(255, 255, 255);
+	    background: #567182;
+	    padding: 0 1em;
+	    letter-spacing: 1px;
+	    font-weight: 800;
+	}
+	
+
+	.banner-text h2 {
+	    color: #ffffff;
+	    margin: 0.8em 0 0.2em;
+	    font-size: 4em;
+	    font-weight: 400;
+	    letter-spacing: 1px;
+	}
+	
+
+	.banner-text h2 span {
+	    font-weight: 800;
+	}
+	
+
+	.banner-text p {
+	    font-size: 1.2em;
+	    color: #fff;
+	    padding-top: 1em;
+	    letter-spacing: 1px;
+	    display: inline-block;
+	    border-top: 4px double #fff;
+	}
+	
+
+	.section {
+	    padding: 5em 0;
+	}
+	
+
+	.section h3 {
+	    font-size: 2.5em;
+	    font-weight: 600;
+	    margin-bottom: 1.5em;
+	    color: #1853a1;
+	    text-align: center;
+	}
+	
+
+	.about p {
+	    width: 80%;
+	    margin: 0 auto;
+	}
+	
+
+	.assignment .image {
+	    padding: 0;
+	    float: left;
+	}
+	
+
+	.assignment .info {
+	    padding: 1em;
+	    background: #ffffff;
+	}
+	
+
+	.assignment .info h5 {
+	    color: #000000;
+	    font-size: 1em;
+	    font-weight: 600;
+	    letter-spacing: 4px;
+	    margin: 0;
+	}
+	
+
+	.assignment .info p {
+	    color: #999999;
+	    font-size: .9em;
+	    line-height: 1.8em;
+	    margin: .5em 0 0 0;
+	}
+	
+
+	.assignment .image:hover .info {
+	    background: #03afdd;
+	    color: #FFFFFF;
+	}
+	
+
+	.assignment .image:hover a {
+	    text-decoration: none;
+	}
+	
+
+	.assignment .image:hover .info p {
+	    color: #FFFFFF;
+	}
